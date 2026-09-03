@@ -47,7 +47,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # আপনার টেলিগ্রাম বট টোকেন
-BOT_TOKEN = "8615086853:AAFsZVFxoP2T8XsA9Bv6qcIyHibEwo-UAJA"
+BOT_TOKEN = "8615086853:AAEzHloDunFVUqPB1fzdhzpJGn1jQf5x09o"
 
 # Application directories
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
